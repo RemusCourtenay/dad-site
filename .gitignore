@@ -1,2 +1,11 @@
-# Project exclude paths
+# Custom gitignore file
+
+# Project exclude paths (same as out?)
 /target/
+
+# IntelliJ files
+.idea/
+*.iml
+
+# Maven files
+pom.xml
